@@ -37,6 +37,8 @@ text-align: center;
 #mainvisual img{
 width: 1600px;
 height: 1200px;
+max-width: 100%;
+height: auto;
 }
 #wrapper{
 width: 1600px;
